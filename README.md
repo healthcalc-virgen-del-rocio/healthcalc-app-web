@@ -10,3 +10,4 @@ Version web de la calculadora de salud desarrollada para el Hospital Universitar
 
 ## Tablero Kanban
 
+![PHOTO-2025-06-05-18-21-01](https://github.com/user-attachments/assets/11e957af-3978-49dd-85b0-d348ee69ccb2)
